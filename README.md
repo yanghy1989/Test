@@ -1,2 +1,5 @@
 # Test
-the first repository
+#the first repository
+def g(x):
+    for i in range(x):
+       print(t)
